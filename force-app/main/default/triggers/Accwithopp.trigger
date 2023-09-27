@@ -3,3 +3,5 @@ trigger Accwithopp on Account (before insert,After insert){
        	 if(trigger.isAfter)
            AccountTriggerHandler.updatelist(Trigger.New);
 }
+
+i changed something in this file
