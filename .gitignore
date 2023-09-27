@@ -43,3 +43,5 @@ $RECYCLE.BIN/
 **/__pycache__/
 **/.venv/
 **/venv/
+
+i haven changed somethig in gitignore
